@@ -1,2 +1,2 @@
 # Universidade positivo
-Todos os projetos desenvolvidos na Universidade Positivo estão abertos aqui!
+Todos os projetos e exercícios desenvolvidos na Universidade Positivo estão disponíveis aqui!
