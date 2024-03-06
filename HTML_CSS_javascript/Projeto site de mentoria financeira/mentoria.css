@@ -1,0 +1,88 @@
+@import url('https//fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=wsap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: #4ca1645e;
+    width: 100%;
+    height: 750px;
+    align-items: center;
+    padding: 10px;
+    color: white;
+    display: flex;  
+    font-family: 'Poppins', sans-serif;
+}
+
+.headline{
+    margin-left: 10%;
+    flex: 40%;
+    margin-top: 50px;
+    color: #367046;
+}
+
+.img{
+    margin-right: 10%;
+    flex: 40%;
+    margin-top: 100px;
+}
+
+.header h2{
+    font-size: 50px;
+}
+.header p{  
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #3670469b;
+}
+
+.segundadiv{
+    text-align: center;
+    margin-top: 80px;
+    width: 1100px;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 15%;
+    padding: 150px;
+}
+.segundadiv h2{
+    width: 100%;
+    font-size: 50px;
+    color: #367046;
+}
+
+.segundadiv p{
+    margin-top: 20px;
+    font-size: 25px;
+    color: #367046;
+}
+
+.terceiradiv{
+    width: 100%;
+    height: 550px;
+    align-items:center;
+    padding: 10px;
+    color: rgb(52, 86, 87);
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+.quartadiv{
+    background-color: rgba(200, 195, 195, 0.53);
+    width: 100%;
+    height: 550px;
+    align-items:center;
+    padding: 10px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.quartadivA :hover{
+    background: cadetblue;
+}
+

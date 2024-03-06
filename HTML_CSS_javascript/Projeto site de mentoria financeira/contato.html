@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>InvestG</title>
+    <link rel="stylesheet" href="contato.css">
+    <link rel="stylesheet" href="navbar.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="logo">
+            <img src="Imagens/logo.png" width="200px">
+        </div>
+        <div class="menu">
+                <a href="index.html">Início</a>
+                <a href="noticias.html">Notícias</a>
+                <a href="mentoria.html">Mentoria Financeira</a>
+                <a href="invista.html">Invista Conosco</a>
+                <a href="contato.html">Fale Conosco</a>
+                <a href="quem_somos.html">Quem Somos</a>
+        </div>    
+    </header>
+    
+
+    <main class="contato-main" style="margin-top: 100px;">
+        <div class="logreg-box">
+
+            <div class="form-box register">
+                <form action="#">
+    
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bxs-user'></i></span>
+                        <input type="text" required>
+                        <label>Name</label>
+                    </div>
+                    
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bxs-envelope'></i></span>
+                        <input type="email" required>
+                        <label>Email</label>
+                    </div>
+                        
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bx-phone'></i></span>
+                        <input type="phone" required>
+                        <label>Telefone</label>
+                    </div>
+                    
+                    <label for="mensagem" style="width: 500px;">Mensagem</label>
+                    <textarea name="" id="mensagem" cols="70" rows="10" class="input-padrao" required></textarea>
+
+                    <fieldset>
+                        <legend>Como prefere o nosso contato?</legend>
+                        <label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email">E-mail</label>
+        
+                        <label for="radio-telefone"><input type="radio" name="contato" value="email" id="radio-telefone">
+                            Telefone</label>
+        
+                        <label for="radio-whatsapp"><input type="radio" name="contato" value="email" id="radio-whatsapp"
+                                checked> Whatsapp</label>
+        
+                    </fieldset>
+        
+        
+                    <label class="checkbox"><input type="checkbox" checked>Gostaria de receber nossas novidades por
+                        e-mail?</label>
+                        <button type="submit" class="btn">Enviar</button>
+                    </label>    
+                
+            </div>
+        </div>
+        <table style="margin-left: 300px;">
+            <thead>
+                <tr>
+                    <th>Dia</th>
+                    <th>Horário de funcionamento</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Segunda</td>
+                    <td>8h ~ 18h</td>
+                </tr>
+                <tr>
+                    <td>Terça</td>
+                    <td>8h ~ 18h</td>
+                </tr>
+                <tr>
+                    <td>Quarta</td>
+                    <td>8h ~ 18h</td>
+                </tr>
+                <tr>
+                    <td>Quinta</td>
+                    <td>8h ~ 18h</td>
+                </tr>
+                <tr>
+                    <td>Sexta</td>
+                    <td>8h ~ 18h</td>
+                </tr>
+                <tr>
+                    <td>Sabado</td>
+                    <td>9h ~ 16h</td>
+                </tr>
+            </tbody>
+        </table>
+        
+    </main>
+
+    <hr>
+    <footer style="border-top: solid rgba(34, 56, 57, 0.799) 2px;">
+        <div class="social-media">
+            <div style="display: inline-flex;align-items: center;text-align: center; width: 600px;margin-left: 360px;">
+                <img src="Imagens/logo.png" width="200px">
+            </div>
+            <div class="social-media">
+                <a href="#"><i class='bx bxl-whatsapp'></i></a>
+                <a href="#"><i class='bx bxl-facebook'></i></a>
+                <a href="#"><i class='bx bxl-telegram'></i></a>
+                <a href="#"><i class='bx bxl-instagram-alt'></i></a>
+            </div>
+            <br>
+            <hr width="900px;">
+            <p style="margin-top: 30px;">Copyright &copy; 2023 InvestG | All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+
+</html>
