@@ -1,0 +1,14 @@
+C:\_ws\c#\EXEMPLOS\bin\Debug\net8.0\EXEMPLOS.exe
+C:\_ws\c#\EXEMPLOS\bin\Debug\net8.0\EXEMPLOS.deps.json
+C:\_ws\c#\EXEMPLOS\bin\Debug\net8.0\EXEMPLOS.runtimeconfig.json
+C:\_ws\c#\EXEMPLOS\bin\Debug\net8.0\EXEMPLOS.dll
+C:\_ws\c#\EXEMPLOS\bin\Debug\net8.0\EXEMPLOS.pdb
+C:\_ws\c#\EXEMPLOS\obj\Debug\net8.0\EXEMPLOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ws\c#\EXEMPLOS\obj\Debug\net8.0\EXEMPLOS.AssemblyInfoInputs.cache
+C:\_ws\c#\EXEMPLOS\obj\Debug\net8.0\EXEMPLOS.AssemblyInfo.cs
+C:\_ws\c#\EXEMPLOS\obj\Debug\net8.0\EXEMPLOS.csproj.CoreCompileInputs.cache
+C:\_ws\c#\EXEMPLOS\obj\Debug\net8.0\EXEMPLOS.dll
+C:\_ws\c#\EXEMPLOS\obj\Debug\net8.0\refint\EXEMPLOS.dll
+C:\_ws\c#\EXEMPLOS\obj\Debug\net8.0\EXEMPLOS.pdb
+C:\_ws\c#\EXEMPLOS\obj\Debug\net8.0\EXEMPLOS.genruntimeconfig.cache
+C:\_ws\c#\EXEMPLOS\obj\Debug\net8.0\ref\EXEMPLOS.dll
