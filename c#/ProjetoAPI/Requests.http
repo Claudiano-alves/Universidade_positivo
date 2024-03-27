@@ -1,0 +1,23 @@
+### Resquisição GET
+GET http://localhost:5276/tarefas
+
+### Resquisição POST
+POST http://localhost:5276/tarefas
+Content-Type: application/json
+
+{
+    "Nome": "Comprar verduras",
+    "Concluida": false
+}
+
+### Resquisição PUT
+PUT http://localhost:5276/tarefas/555
+Content-Type: application/json
+
+{
+    "Nome": "Comprar verduras",
+    "Concluida": false
+}
+
+### Resquisição DELETE
+DELETE http://localhost:5276/tarefas/555
