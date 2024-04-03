@@ -23,3 +23,13 @@ C:\_ws\ProjetoAPI\obj\Debug\net8.0\refint\ProjetoAPI.dll
 C:\_ws\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.pdb
 C:\_ws\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.genruntimeconfig.cache
 C:\_ws\ProjetoAPI\obj\Debug\net8.0\ref\ProjetoAPI.dll
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.csproj.AssemblyReference.cache
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.AssemblyInfoInputs.cache
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.AssemblyInfo.cs
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.csproj.CoreCompileInputs.cache
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.sourcelink.json
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.dll
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\refint\ProjetoAPI.dll
+C:\_ws\ws_\Universidade_positivo\c#\ProjetoAPI\obj\Debug\net8.0\ProjetoAPI.pdb
