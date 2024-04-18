@@ -1,0 +1,25 @@
+Questão 02 - exercício aula
+
+Implemente uma página onde o usuário informe os seguintes dados:
+
+- Nome;
+- Data de nascimento (deve ser feita uma máscara para data,          conforme o usuário digite a data as barras apareçam automaticamente);
+- Endereço (Utilizar textarea);
+- Estado civil (Masculino/Feminino/Outros) (Implementar uma caixa de seleção);
+- Sexo (Utilizar radio button)
+- Veículos (Moto/Carro/Bicicleta) (Utilizar checkbox - Deve-se ter a possibilidade de  não selecionar nenhum, um ou mais de uma opção);
+- Senha (Os dados do formulário não podem ser enviados sem o preenchimento de tal campo);
+- Confirmação de senha (Os dados do formulário não podem ser enviados sem o preenchimento de tal campo);
+- Implementar botões de Enviar e Limpar dados do formulário implementado.
+
+Obs 01.: O formulário deve ser implementado em conjunto com uma 	 tabela, sendo que os dados informados devem ser enviados a 	 outra página e listados via foreach. Por fim ressalta-se 	 que na página para qual os dados serão enviados deve-se 	 ter um "botão de voltar";
+
+Obs 02.: Caso o usuário não informe os veículos que possui
+	 deve ser apresentada uma mensagem na tela sobre tal 	 	 questão. Caso seja informado um ou mais veículos os 
+	 mesmos devem ser listados;
+
+Obs 03.: O número máximo de caracteres do campo referente a data de nascimento deve ser 10;
+
+Obs 04.: O número máximo de caracteres dos campos referentes a senha e confirmação de senha deve ser 20;
+
+Obs 05.: O número máximo de caracteres do campos referente ao nome do usuário deve ser 30 caracteres.
