@@ -11,12 +11,16 @@ public class Jogador {
         this.desenho = desenho;
     }
 
-    public void getPosX(int posX) {
-        this.posX = posX;
+    public int getPosX() {
+        return posX;
     }
 
-    public void getPosY(int posY) {
-        this.posY = posY;
+    public int getPosY() {
+        return posY;
+    }
+
+    public String desenho() {
+        return desenho;
     }
 
     public static void marcarPos(int posX, int posY) {

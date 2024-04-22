@@ -15,12 +15,19 @@ public class Main {
         System.out.println();
         for (int i = 0; i < posX; i++) {
             System.out.print(" " + i + " ");
-            for (int j = 0; j < posY; j++) {
-                if (i == jogadores.getPosX() && j == jogadores.getPosY()) {
-                    System.out.print("[ X ]");
-                } else {
+            for(int j = 0; j < posY; j++){
+                boolean jogadorPresente = false;
+                for (Jogador jogador: jogadores) {
+                    if (i == jogador.getPosX() && j == jogador.getPosY()) {
+                        System.out.print("[ " + jogador.desenho() + " ]");
+                        jogadorPresente = true;
+                        break;
+                    }
+                }
+                if(!jogadorPresente){
                     System.out.print("[ . ]");
                 }
+
             }
             System.out.println();
         }
