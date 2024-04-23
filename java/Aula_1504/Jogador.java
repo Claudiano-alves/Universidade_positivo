@@ -11,6 +11,18 @@ public class Jogador {
         this.desenho = desenho;
     }
 
+    public void setPosX(int posX) {
+        this.posX = posX;
+    }
+
+    public void setPosY(int posY) {
+        this.posY = posY;
+    }
+
+    public void setDesenho(String desenho) {
+        this.desenho = desenho;
+    }
+
     public int getPosX() {
         return posX;
     }
@@ -19,7 +31,7 @@ public class Jogador {
         return posY;
     }
 
-    public String desenho() {
+    public String getDesenho() {
         return desenho;
     }
 

@@ -11,20 +11,20 @@ public class Main {
         for (int t = 0; t < posX; t++) {
             System.out.print(t + "    ");
         }
-        System.out.print(" x");
+        System.out.print("  x");
         System.out.println();
         for (int i = 0; i < posX; i++) {
             System.out.print(" " + i + " ");
-            for(int j = 0; j < posY; j++){
+            for (int j = 0; j < posY; j++) {
                 boolean jogadorPresente = false;
-                for (Jogador jogador: jogadores) {
+                for (Jogador jogador : jogadores) {
                     if (i == jogador.getPosX() && j == jogador.getPosY()) {
-                        System.out.print("[ " + jogador.desenho() + " ]");
+                        System.out.print("[ " + jogador.getDesenho() + " ]");
                         jogadorPresente = true;
                         break;
                     }
                 }
-                if(!jogadorPresente){
+                if (!jogadorPresente) {
                     System.out.print("[ . ]");
                 }
 
@@ -39,7 +39,7 @@ public class Main {
         Tabuleiro tabuleiro = new Tabuleiro();
         List<Jogador> jogador = new ArrayList<Jogador>();
 
-        jogador.add(new Jogador(0, 1, 'X');
+        jogador.add(new Jogador(0, 7, "X"));
 
         tabuleiro(10, 10, jogador);
 
