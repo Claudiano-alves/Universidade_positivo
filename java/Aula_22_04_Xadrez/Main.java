@@ -1,4 +1,4 @@
-package Aula_1504;
+package Aula_22_04_Xadrez;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,13 +36,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        Tabuleiro tabuleiro = new Tabuleiro();
-        List<Jogador> jogador = new ArrayList<Jogador>();
-
-        jogador.add(new Jogador(0, 7, "X"));
-
-        tabuleiro(8, 8, jogador);
-
+        List<Jogador> jogadores = new ArrayList<Jogador>();
     }
 
 }
