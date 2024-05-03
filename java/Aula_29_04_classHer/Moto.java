@@ -1,4 +1,4 @@
-package Aula_29_04_classHen;
+package Aula_29_04_classHer;
 
 public class Moto extends Veiculos {
     Moto(String modelo, int ano, String cor, boolean ligado) {

@@ -1,14 +1,13 @@
-package Aula_29_04_classHen;
+package Aula_29_04_classHer;
 
 public class Onibus extends Veiculos {
     private int capPassageiros;
     private int portasAcesso;
     private int numeroParadas;
-    
+
     Onibus(String modelo, int ano, String cor, boolean ligado) {
         super(modelo, ano, cor, ligado);
     }
-
 
     public int getcapPassageiros() {
         return capPassageiros;

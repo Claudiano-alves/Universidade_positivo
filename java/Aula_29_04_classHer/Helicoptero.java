@@ -1,4 +1,4 @@
-package Aula_29_04_classHen;
+package Aula_29_04_classHer;
 
 public class Helicoptero extends VeiculoAereo {
     private int numeroHelices;
@@ -11,11 +11,11 @@ public class Helicoptero extends VeiculoAereo {
         this.capCarga = capCarga;
     }
 
-    public void pairar(){
-        
+    public void pairar() {
+
     }
 
-    public void resgatarPessoas(){
+    public void resgatarPessoas() {
 
     }
 }
