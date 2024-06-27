@@ -13,8 +13,7 @@
 
 <body>
 
-    <?php 
-
+    <?php
     
         $_SESSION['nome'];
         $_SESSION['sobrenome'];
